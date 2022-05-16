@@ -62,3 +62,14 @@
 // 0.500000
 // 0.333333
 // 0.166667
+
+function plusMinus(arr) {
+    // Write your code here
+
+    let p = [], n = [], z = [];
+    arr.filter(x => (x > 0) ? p.push(x) : (x < 0) ? n.push(x) : z.push(x))
+    let result = (x) => +(x.length / arr.length).toFixed(6)
+
+    console.log(result(p), '\n', result(n), '\n', result(z))
+}
+plusMinus([-4, 3, -9, 0, 4, 1]);
