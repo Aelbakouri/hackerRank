@@ -85,6 +85,4 @@ function diagonalDifference(arr) {
     const r = (arr) => arr.reduce((pre, cur) => pre + cur)
     return Math.abs(r(a) - r(b))
 
-
-
 }
