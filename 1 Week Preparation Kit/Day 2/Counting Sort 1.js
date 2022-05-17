@@ -32,7 +32,7 @@
 // Function Description
 
 // Complete the countingSort function in the editor below.
-
+   
 // countingSort has the following parameter(s):
 
 //     arr[n]: an array of integers
