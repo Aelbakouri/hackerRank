@@ -12,7 +12,7 @@
 // lonelyinteger has the following parameter(s):
 
 //     int a[n]: an array of integers
-
+ 
 // Returns
 
 //     int: the element that occurs only once
