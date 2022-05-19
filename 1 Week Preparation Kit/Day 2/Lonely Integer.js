@@ -16,7 +16,7 @@
 // Returns
 
 //     int: the element that occurs only once
-
+ 
 // Input Format
 
 // The first line contains a single integer,
