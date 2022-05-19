@@ -7,7 +7,7 @@
  
 // Function Description
 
-// Complete the lonelyinteger function in the editor below.
+// Complete the lonelyinteger function in the editor below. 
 
 // lonelyinteger has the following parameter(s):
 
