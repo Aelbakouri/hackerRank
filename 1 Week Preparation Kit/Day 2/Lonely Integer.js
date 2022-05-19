@@ -4,7 +4,7 @@
 // The unique element is
 
 // .
-
+ 
 // Function Description
 
 // Complete the lonelyinteger function in the editor below.
