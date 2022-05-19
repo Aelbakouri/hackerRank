@@ -30,7 +30,7 @@
 // It is guaranteed that
 // is an odd number and that there is one unique element.
 // , where .
-
+ 
 function lonelyinteger(a) {
 
     const c = []
