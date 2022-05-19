@@ -40,7 +40,7 @@ function lonelyinteger(a) {
         i++
     }
     return c[0]
-
+ 
 
 }
 console.log(lonelyinteger([34, 95, 34, 64, 45, 95, 16, 80, 80, 75, 3, 25, 75, 25, 31, 3, 64, 16, 31,]))//44
